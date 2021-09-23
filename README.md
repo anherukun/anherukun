@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi, I'm アンヘルーくん (Angel in Japanese 🇯🇵) 
 
 - I'm currently working in government corporation in Mexico 🇲🇽.
-- I'm learning frontend and .NET backend 🤓
+- I'm learning frontend and .NET backend
 - I like .NET Technologies, JavaScript and more.
 - I would like to learn Japanese
 
