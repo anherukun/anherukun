@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - I would like to learn Japanese
 
 ## Tecnhologies
-<p align="center" style="display: flex; justify-content: space-evenly;">
+<p class="flex-center-spaced" align="center" style="display: flex; justify-content: space-evenly;">
 <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" alt="c#" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt="dotnet" height="40" style="vertical-align:top; margin:4px">
 <img src="http://www.manualweb.net/img/logos/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
