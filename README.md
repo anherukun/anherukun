@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ## :trophy: My Github Stats
 
 [![アンヘルーくん GitHub stats](https://github-readme-stats.vercel.app/api?username=anherukun&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![アンヘルーくん Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anherukun)](https://github.com/anuraghazra/github-readme-stats)
 
 
