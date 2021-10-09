@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 [![アンヘルーくん GitHub stats](https://github-readme-stats.vercel.app/api?username=anherukun&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Top Langs
-[![アンヘルーくん Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anherukun&theme=tokyonight&layout=compact)
+![アンヘルーくん Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anherukun&theme=tokyonight&layout=compact)
 
 
