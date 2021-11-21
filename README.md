@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://jartigag.xyz/assets/images/posts/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## :trophy: My Github Stats
+## My Github Stats
 
 [![アンヘルーくん GitHub stats](https://github-readme-stats.vercel.app/api?username=anherukun&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
