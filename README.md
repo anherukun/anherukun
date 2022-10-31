@@ -13,7 +13,9 @@ My tech stack: ASP. NET, ASP.NETcore, EntityFramework, JavaScript, NodeJS, Java,
 I’m love dogs 🐶, anime 📺 and gaming 👾
 
 <br/>  
-## My Skill Set  
+
+## My Skill Set
+
 <table><tr><td valign="top" width="50%">
 
 
@@ -77,8 +79,7 @@ I’m love dogs 🐶, anime 📺 and gaming 👾
   
 
 <br/>  
-
-<div align="center">
+div align="center">
             <a href="https://paypal.me/AngelG96" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
