@@ -1,21 +1,18 @@
-### <div align="center">Hi, I'm アンヘルーくん (Angel in Japanese 🇯🇵)</div>  
-  
+### <div align="center">Hi, I'm アンヘルーくん (Angel in Japanese 🇯🇵)</div>
+
+I’m a Information Tecnologies Engineer, with experience in design, backend technologies like .NET, Java, JavaScript and fronted like HTML, CSS, JavaScript, Bootstrap 
+
+I believe in the technology and that it can change the world. That’s why I want to work in that.
+
+My tech stack: ASP. NET, ASP.NETcore, EntityFramework, JavaScript, NodeJS, Java, SQL.
 
 - I'm currently working in government corporation in Mexico 🇲🇽.  
-  
-
 - I'm learning frontend and .NET backend  
-  
+- I like .NET Technologies, JavaScript and more.
 
-- I like .NET Technologies, JavaScript and more.  
-  
-
-- I would like to learn Japanese  
-  
+I’m love dogs 🐶, anime 📺 and gaming 👾
 
 <br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
